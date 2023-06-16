@@ -4,7 +4,7 @@ React_js Some Ui Design for Implementation In this fill u will get like "Nav bar
 1. Res_Navbar.js in this folder u will get the material UI Responive nav bar!!!
 2. FooterMUI.js in this folder u will get the material UI Responive Footer bar!!
 3. Google-React-chats.js folder to implement the React Google chats!!
-4. Googlechrat_horizontal_barchart.js In this will ge a Bar graph which shows to wards like like button!
+4. Googlechrat_horizontal_barchart.js In this will ge a Bar graph which shows to wards like like button!!
 5. Bargraph for implementation Horzonta In this will ge a Bar graph which shows to wards like like button!
 6. canvasBargrpas in hor.js In this we can create the graph with help of the canvas for graphs and all! Simple design!
 7. Create Chartjs in canvas implementation.js in canvas i have done this!
